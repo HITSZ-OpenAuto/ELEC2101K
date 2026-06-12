@@ -1,97 +1,41 @@
-# 课程名称
-course_name = "课程中文名称"
-
-# 仓库类型: normal | multi-project
+course_name = "计算机编程"
+course_code = "ELEC2101K"
 repo_type = "normal"
-
-# 课程代码 (用于检索)
-course_code = "CODE1234"
-
-# 课程简介
 description = """
-在这里填写课程的简要介绍。
-可以换行。
+韩方授课，全英文，课程内容为为**C++编程**的学习。包含32学时的理论课与16学时的实验课。
+实验课在学校机房（可以自带笔记本电脑）使用VSCode等IDE工具进行C++编程。
+实验课为本校教师&助教进行授课。
+学生一般不会与教师进行直接的互动，而是通过助教进行沟通。
 """
 
-# ===== 章节列表 =====
+[lecturers]
+
+[[lecturers.items]]
+name = "南海云 NAM HAEWOON （韩）"
+
+[[lecturers.items.reviews]]
+content = """
+[教师个人主页](http://icsl.hanyang.ac.kr/~hnam/)
+如果希望与教师邮箱联系，请确保标题以 **HITSZ** 开头。
+"""
+author = { name = "awaw_a", link = "https://github.com/awaw-a", date = "2026-06" }
+
 [[sections]]
 title = "考核方式"
 
-# 第一条内容
 [[sections.items]]
 content = """
-• 平时成绩: 30%
-• 期中考试: 30%
-• 期末考试: 40%
+- 平时成绩: 40%    
+  - 包含理论课课堂题目成绩与实验课实验报告成绩。
+- 期中考试: 10%
+  - 随堂测试，26年为手写试卷，包含选择题与编程题。
+- 期末考试: 50%    
+  - 未知。
 """
-# author 是可选的
-author = { name = "昵称A", date = "2025-03" }
-
-# 第二条内容（同一章节下多条）
-[[sections.items]]
-content = """
-• 2024年: 期末 60% + 平时 40%
-"""
-author = { name = "昵称B", date = "2024-01" }
+author = { name = "awaw_a", link = "https://github.com/awaw-a", date = "2026-06" }
 
 [[sections]]
 title = "学习资料"
 
 [[sections.items]]
-content = """
-• 教材: 《书名》
-• 参考资料链接
-"""
-
-# ===== 教师评价 (新 schema) =====
-# 顺序: lecturers.intro → lecturers.items → lecturers.summary
-[lecturers]
-
-# 教师简介 (在教师列表之前，可以多条)
-[[lecturers.intro]]
-content = """
-教师团队总体介绍。
-人数: 3人
-"""
-author = { name = "管理员", date = "2025-01" }
-
-[[lecturers.intro]]
-content = """
-研究方向: 机器学习、计算机视觉
-"""
-author = { name = "管理员", date = "2025-01" }
-
-# 教师列表
-[[lecturers.items]]
-name = "教师A"
-
-[[lecturers.items.reviews]]
-content = """
-教师评价内容。
-可以多行。
-"""
-author = { name = "昵称", link = "https://github.com/xxx", date = "2025-03" }
-
-[[lecturers.items.reviews]]
-content = "另一条评价"
-author = { name = "匿名", date = "2025-01" }
-
-[[lecturers.items]]
-name = "教师B"
-
-[[lecturers.items.reviews]]
-content = "教师B的评价"
-author = { name = "学生", date = "2024-12" }
-
-# 教师总结 (在教师列表之后，可以多条)
-[[lecturers.summary]]
-content = """
-教师团队总结。
-整体教学水平较高。
-"""
-author = { name = "管理员", date = "2025-01" }
-
-[[lecturers.summary]]
-content = """
-建议: 尽早选课，晚了好老师就没了
-"""
+content = "• 教材: 《C++ Programming:An Object-Oriented Approach》"
