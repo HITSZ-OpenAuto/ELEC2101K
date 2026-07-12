@@ -44,7 +44,7 @@
 
 ## 个人实验仓库
 
-- [61m/hitsz-computer-programming](https://github.com/61mo/hitsz-computer-programming): `C++` 源代码、程序流程图、编译生成文件以及实验报告
+- [61mo/hitsz-computer-programming](https://github.com/61mo/hitsz-computer-programming): `C++` 源代码、程序流程图、编译生成文件以及实验报告
 
 ## 学习资料
 <!-- TOML-SECTION: title="学习资料" -->
