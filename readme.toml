@@ -2,9 +2,9 @@ course_name = "计算机编程"
 course_code = "ELEC2101K"
 repo_type = "normal"
 description = """
-韩方授课，全英文，课程内容为**C++编程**的学习。包含32学时的理论课与16学时的实验课。
-实验课在学校机房（可以自带笔记本电脑）使用VSCode等IDE工具进行C++编程。
-实验课为本校教师&助教进行授课。
+韩方授课，全英文，课程内容为 **C++ 编程**的学习。包含 32 学时的理论课与 16 学时的实验课。
+实验课在学校机房（可以自带笔记本电脑）使用 VS Code 等 IDE 工具进行 C++ 编程。
+实验课为本校教师 & 助教进行授课。
 学生一般不会与教师进行直接的互动，而是通过助教进行沟通。
 """
 
@@ -19,6 +19,22 @@ content = """
 如果希望与教师邮箱联系，请确保标题以 **HITSZ** 开头。
 """
 author = { name = "awaw_a", link = "https://github.com/awaw-a", date = "2026-06" }
+
+[[lecturers.items.reviews]]
+content = "理论课老师。"
+author = { name = "61m", link = "https://github.com/61mo", date = "2026-07" }
+
+[[lecturers.items]]
+name = "房敏"
+
+[[lecturers.items.reviews]]
+content = """
+实验课老师。
+4 节实验课穿插在理论课程之间，差不多是每阶段性内容的总结与应用。
+实验课在学校机房（或自带笔记本）使用 `VS Code` 进行代码编写，老师第一节课会教学用自己的笔记本下载 `VS Code` 并进行 `C++` 环境的配置。
+实验课为整个 1 - 4 节或 5 - 8 节，课上如果提前完成课堂内容，需到老师的电脑上默打一遍代码，才可提前签到离开。
+"""
+author = { name = "61m", link = "https://github.com/61mo", date = "2026-07" }
 
 [[sections]]
 title = "学习建议"
@@ -45,6 +61,20 @@ content = """
     - 26春期末仅考察期中以后部分的内容。
 """
 author = { name = "awaw_a", link = "https://github.com/awaw-a", date = "2026-07" }
+
+[[sections.items]]
+content = """
+- 平时成绩：随堂雨课堂 quiz 和实验课考勤及实验报告。
+- 期中考试：选择题，代码简答题（给出一段代码让你解释或让你写出代码输出结果），手写代码题。
+- 期末考试：和期中考试题型相同，主要考课本第 6 - 13 章。
+"""
+author = { name = "61m", link = "https://github.com/61mo", date = "2026-07" }
+
+[[sections]]
+title = "个人实验仓库"
+
+[[sections.items]]
+content = "- [61mo/hitsz-computer-programming](https://github.com/61mo/hitsz-computer-programming): `C++` 源代码、程序流程图、编译生成文件以及实验报告"
 
 [[sections]]
 title = "学习资料"

@@ -14,9 +14,11 @@
   - [教师个人主页](http://icsl.hanyang.ac.kr/~hnam/)
   - 如果希望与教师邮箱联系，请确保标题以 **HITSZ** 开头。
     > 文 / [awaw_a](https://github.com/awaw-a)，2026-06
+  <!-- TOML-ITEM: id="review-南海云 NAM HAEWOON （韩）-2" -->
   - 理论课老师。
     > 文 / [61m](https://github.com/61mo)，2026-07
 - 房敏
+  <!-- TOML-ITEM: id="review-房敏-1" -->
   - 实验课老师。
   - 4 节实验课穿插在理论课程之间，差不多是每阶段性内容的总结与应用。
   - 实验课在学校机房（或自带笔记本）使用 `VS Code` 进行代码编写，老师第一节课会教学用自己的笔记本下载 `VS Code` 并进行 `C++` 环境的配置。
@@ -51,12 +53,18 @@
 
 > 文 / [awaw_a](https://github.com/awaw-a)，2026-07
 
+<!-- TOML-ITEM: id="item-考核方式-2" -->
+
 - 平时成绩：随堂雨课堂 quiz 和实验课考勤及实验报告。
 - 期中考试：选择题，代码简答题（给出一段代码让你解释或让你写出代码输出结果），手写代码题。
 - 期末考试：和期中考试题型相同，主要考课本第 6 - 13 章。
+
 > 文 / [61m](https://github.com/61mo)，2026-07
 
 ## 个人实验仓库
+<!-- TOML-SECTION: title="个人实验仓库" -->
+
+<!-- TOML-ITEM: id="item-个人实验仓库-1" -->
 
 - [61mo/hitsz-computer-programming](https://github.com/61mo/hitsz-computer-programming): `C++` 源代码、程序流程图、编译生成文件以及实验报告
 
