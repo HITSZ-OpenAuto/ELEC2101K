@@ -21,7 +21,8 @@
 <!-- TOML-ITEM: id="item-学习建议-1" -->
 
 - C++国内外差异不大，**看B站教程**也可作为有效的学习途径。不过要知道各种中文词对应的英文，**否则考试会看不懂题目**。
-  > 文 / [awaw_a](https://github.com/awaw-a)，2026-07
+
+> 文 / [awaw_a](https://github.com/awaw-a)，2026-07
 
 ## 考核方式
 <!-- TOML-SECTION: title="考核方式" -->
