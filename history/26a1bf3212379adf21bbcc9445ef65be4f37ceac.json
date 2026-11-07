@@ -1,0 +1,67 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 552,
+    "time": 1794023063,
+    "hash": "26a1bf3212379adf21bbcc9445ef65be4f37ceac"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1780123032,
+    "hash": "514a37b717f18e927efa4747c9d8e03ec92ab6ae"
+  },
+  "README.md": {
+    "size": 3637,
+    "time": 1784958657,
+    "hash": "5b5a1a8ab41788837d3e120fea2bb96eddf9d81d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1780123032,
+    "hash": "514a37b717f18e927efa4747c9d8e03ec92ab6ae"
+  },
+  "books/教材-C Programming An Object-Oriented Approach(McGrawHill).pdf": {
+    "size": 31431600,
+    "time": 1783867287,
+    "hash": "3db9e2e7723242d378af82653c63be66d01d9fdf"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1780123032,
+    "hash": "514a37b717f18e927efa4747c9d8e03ec92ab6ae"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1780123032,
+    "hash": "514a37b717f18e927efa4747c9d8e03ec92ab6ae"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1784076845,
+    "hash": "feb0673cd86a9319227e1034b860882a3a2d3414"
+  },
+  "materials/期末复习题.pdf": {
+    "size": 225400,
+    "time": 1784076845,
+    "hash": "feb0673cd86a9319227e1034b860882a3a2d3414"
+  },
+  "materials/期末复习题_答案.pdf": {
+    "size": 136440,
+    "time": 1784076845,
+    "hash": "feb0673cd86a9319227e1034b860882a3a2d3414"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1780123032,
+    "hash": "514a37b717f18e927efa4747c9d8e03ec92ab6ae"
+  },
+  "readme.toml": {
+    "size": 3603,
+    "time": 1784958657,
+    "hash": "5b5a1a8ab41788837d3e120fea2bb96eddf9d81d"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1780123032,
+    "hash": "514a37b717f18e927efa4747c9d8e03ec92ab6ae"
+  }
+}
